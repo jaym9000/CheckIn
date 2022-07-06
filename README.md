@@ -1,4 +1,4 @@
-# CheckIn
+# When I am reading documentation with no project, I can still check in!
 
 I am currently following a course called The Odin Project, and there is a lot of reading documentation.
 This repository is me keeping track and checking in everyday that I am studying on a daily basis.
