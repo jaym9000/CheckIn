@@ -1,0 +1,5 @@
+Currently on Intermediate HTML & CSS section
+- Finished Introduction
+- Finished Emmet
+- Finished SVG
+- Finished Tables
