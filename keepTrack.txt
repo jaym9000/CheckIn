@@ -1,7 +1,12 @@
 Currently on Intermediate HTML & CSS section
+
+Intermediate HTML Concepts
 - Finished Introduction
 - Finished Emmet
 - Finished SVG
 - Finished Tables
 
 July 8th - Rogers outing so can't do work at home.
+
+Intermediate CSS Concepts
+- Finished Default Styles
