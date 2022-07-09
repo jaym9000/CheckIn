@@ -11,3 +11,4 @@ July 8th - Rogers outing so can't do work at home.
 Intermediate CSS Concepts
 - Finished Default Styles
 - Finished CSS Unites
+- Finished More Text Styles
