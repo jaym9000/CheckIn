@@ -12,3 +12,4 @@ Intermediate CSS Concepts
 - Finished Default Styles
 - Finished CSS Unites
 - Finished More Text Styles
+- Finished More CSS Properties
