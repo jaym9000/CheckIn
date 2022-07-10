@@ -16,3 +16,5 @@ Intermediate CSS Concepts
 - Finished Advanced Selectors
 - Finished Positioning
 - Finished CSS Functions
+- Finished Customer Properties
+- Finished Browser Compatibility
