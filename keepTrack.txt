@@ -13,3 +13,4 @@ Intermediate CSS Concepts
 - Finished CSS Unites
 - Finished More Text Styles
 - Finished More CSS Properties
+- Finished Advanced Selectors
