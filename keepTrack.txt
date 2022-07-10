@@ -14,3 +14,4 @@ Intermediate CSS Concepts
 - Finished More Text Styles
 - Finished More CSS Properties
 - Finished Advanced Selectors
+- Finished Positioning
