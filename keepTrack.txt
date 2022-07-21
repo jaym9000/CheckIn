@@ -22,3 +22,8 @@ Intermediate CSS Concepts
 
 Forms
 - Finished Form Basics
+- Finished Form Validation
+- Finished Project: Sign-up Form
+
+Grid
+- Intro to Grid
