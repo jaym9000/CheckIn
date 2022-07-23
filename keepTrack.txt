@@ -6,7 +6,7 @@ Intermediate HTML Concepts
 - Finished SVG
 - Finished Tables
 
-July 8th - Rogers outing so can't do work at home.
+July 8th - Rogers outing so can't do work at home. -> Still did some.
 
 Intermediate CSS Concepts
 - Finished Default Styles
