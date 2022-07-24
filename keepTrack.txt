@@ -26,4 +26,5 @@ Forms
 - Finished Project: Sign-up Form
 
 Grid
-- Intro to Grid
+- Finished Intro to Grid
+- Finished Creating a Grid
