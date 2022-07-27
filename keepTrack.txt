@@ -29,4 +29,4 @@ Grid
 - Finished Intro to Grid
 - Finished Creating a Grid
 - Finished Positioning Grid Elements
-- Almost finished Advanced Grid Properties (need to fix side bar image and box sizes)
+- Finished Advanced Grid Properties
