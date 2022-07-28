@@ -30,3 +30,4 @@ Grid
 - Finished Creating a Grid
 - Finished Positioning Grid Elements
 - Finished Advanced Grid Properties
+- Finished Using Flexbox and Grid
