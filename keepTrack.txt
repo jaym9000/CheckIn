@@ -31,3 +31,9 @@ Grid
 - Finished Positioning Grid Elements
 - Finished Advanced Grid Properties
 - Finished Using Flexbox and Grid
+- Finished Dashboard project
+
+Javascript
+- Finished 2 intro modules 
+- Finished the Organizing your JS code intro 
+
