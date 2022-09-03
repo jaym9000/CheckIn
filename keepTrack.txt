@@ -37,3 +37,4 @@ Javascript
 - Finished 2 intro modules 
 - Finished the Organizing your JS code intro 
 - Started JS: Objects And Object Constructors
+- Continue JS: Objects And Object Constructors 9/2/2022
