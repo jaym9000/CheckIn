@@ -39,3 +39,4 @@ Javascript
 - Started JS: Objects And Object Constructors
 - Continue JS: Objects And Object Constructors 9/2/2022
 - Continue JS: Objects And Object Constructors 9/4/2022
+- finished reading JavaScriptIsSexy’s article on the prototype 9/6/22
